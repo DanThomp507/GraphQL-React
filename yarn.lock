@@ -4712,6 +4712,11 @@ fill-range@^7.0.1:
   dependencies:
     to-regex-range "^5.0.1"
 
+final-form@4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/final-form/-/final-form-4.10.0.tgz#6179bca7676925202510e9877eb1ad2ad1cd3460"
+  integrity sha512-pq/LKcynfI7CWJUX/YlMKwL6Xf5s6SxfjwFT6Saz4Qnwce5flShPQW7IOpxauy/PzD9LMwH/0qI5fXnNaBlOJg==
+
 finalhandler@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/finalhandler/-/finalhandler-1.1.1.tgz#eebf4ed840079c83f4249038c9d703008301b105"
@@ -9180,6 +9185,11 @@ react-error-overlay@^6.0.7:
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.7.tgz#1dcfb459ab671d53f660a991513cb2f0a0553108"
   integrity sha512-TAv1KJFh3RhqxNvhzxj6LeT5NWklP6rDr2a0jaTfsZ5wSZWHOGeqQyejUp3xxLfPt2UpyJEcVQB/zyPcmonNFA==
+
+react-final-form@3.6.5:
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/react-final-form/-/react-final-form-3.6.5.tgz#191324bc686b20e9e49c929a79949f34b38ba8e5"
+  integrity sha512-upzvMxpLR0QfNAqZxKZAnqcIxWQhvv3+GHZuoxg31VrIDA/jN70KA2dNnXg6khno9qlAGhtspJMI32j9qYX5lQ==
 
 react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"

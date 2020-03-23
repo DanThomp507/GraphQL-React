@@ -12,6 +12,14 @@ const POSTS = [
   {
     author: "Andrew Thompson",
     body: "I am here"
+  },
+  {
+    author: "Daniel Thompson",
+    body: "Initial post"
+  },
+  {
+    author: "Andrew Thompson",
+    body: "I am here"
   }
 ]
 

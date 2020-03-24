@@ -4,24 +4,8 @@ const graphqlHTTP = require("express-graphql")
 const gql = require("graphql-tag")
 const { buildASTSchema } = require("graphql")
 
-const POSTS = [
-  {
-    author: "Daniel Thompson",
-    body: "Initial post"
-  },
-  {
-    author: "Andrew Thompson",
-    body: "I am here"
-  },
-  {
-    author: "Daniel Thompson",
-    body: "Initial post"
-  },
-  {
-    author: "Andrew Thompson",
-    body: "I am here"
-  }
-]
+
+const POSTS = []
 
 const schema = buildASTSchema(gql`
   type Query {
